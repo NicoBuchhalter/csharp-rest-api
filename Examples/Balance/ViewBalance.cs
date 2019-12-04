@@ -8,7 +8,7 @@ namespace Examples.Balance
 {
     class ViewBalance
     {
-        const string YourAccessKey = "YOUR_ACCESS_KEY"; // your access key here.
+        const string YourAccessKey = "T0pGS0m1Jf6vqN2yjXqTMFahh"; // your access key here.
 
         static void Main(string[] args)
         {
